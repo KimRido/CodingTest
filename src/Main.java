@@ -11,6 +11,9 @@ public class Main {
         //ChangeStringCase.solution();
         //WordInSentence.solution();
         //SwapWord.solution();
-        SwapWord2.solution();
+        //SwapWord2.solution();
+        //DeleteDuplicate.solution();
+        //CycleString.solution();
+        Pelindrom.solution();
     }
 }
