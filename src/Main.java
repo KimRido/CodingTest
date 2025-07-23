@@ -1,6 +1,5 @@
-import FirstChapter.ChangeStringCase;
-import FirstChapter.FindString;
-import FirstChapter.WordInSentence;
+import FirstChapter.*;
+
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -11,5 +10,7 @@ public class Main {
         //FindString.solution();
         //ChangeStringCase.solution();
         //WordInSentence.solution();
+        //SwapWord.solution();
+        SwapWord2.solution();
     }
 }
