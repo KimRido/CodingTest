@@ -1,4 +1,5 @@
 import FirstChapter.*;
+import SecondChapter.*;
 
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -14,6 +15,16 @@ public class Main {
         //SwapWord2.solution();
         //DeleteDuplicate.solution();
         //CycleString.solution();
-        Pelindrom.solution();
+        //Pelindrom.solution();
+        //ExtractNumber.solution();
+        //StringDistance.solution(); 다시풀기
+        //StringZip.solution(); 다시풀기
+        //DecryptoPassword.solution(); 다시풀기
+
+        /* SecondChapter */
+        //SearchBigNumber.solution();
+        //CanSeeStudent.solution();
+        RockScissorsPaper.solution();
+
     }
 }
