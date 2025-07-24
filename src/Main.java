@@ -24,7 +24,13 @@ public class Main {
         /* SecondChapter */
         //SearchBigNumber.solution();
         //CanSeeStudent.solution();
-        RockScissorsPaper.solution();
+        //RockScissorsPaper.solution(); A가 이기는 관점에서만 생각해보기
+        //Pibonachi.solution();
+        //PrimeNum.solution(); 다시풀기
+        //ReversePrime.solution(); 다시풀기 : 숫자뒤집는 공식 도출해보기
+        //CalculateScore.solution();
+        //CalculateRank.solution();
+
 
     }
 }
